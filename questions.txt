@@ -19,7 +19,7 @@ What is the messianic secret in Mark?;Jesus reveals his identity openly;Jesus sp
 What does the word "parable" mean?;A hidden prophecy;A moral teaching;To place alongside or compare;A heavenly vision;2
 What does high Christology refer to?;Emphasizing Jesus' humanity;Focusing on Jesus' parables;Describing Jesus' miracles only;Emphasizing Jesus' divine nature;3
 Which gospel has the highest Christology?;Matthew;Mark;Luke;John;3
-What does the Greek word for gospel literally mean?;Holy scripture;God's word;Sacred teaching;Good news;3
+What does the Greek word for gospel literally mean?;Good news;God's word;Sacred teaching;Good news;3
 What event does the Gospel of Mark begin with?;The nativity;The genealogy of Jesus;The baptism of Jesus;The temptation of Jesus;2
 What two types of death are caused by the Fall?;Temporal and eternal;Individual and communal;Spiritual/locational and physical;Locational and temporal;2
 Was the Fall considered regression or progression in 2 Nephi 2?;Regression;Neither;Both equally;Progression;3
@@ -48,3 +48,25 @@ How does Nicodemus differ from the woman at the well in John's gospel?;He is a G
 What is the short ending of Mark?;Jesus ascends into heaven;The disciples are commissioned to preach;The women flee the tomb and say nothing to anyone out of fear;Peter denies Jesus three times;2
 What does the former treatise referred to in Acts 1:1 refer to?;The book of Matthew;The epistles of Paul;The Gospel of Luke;The book of Hebrews;2
 What is the topic of the parables in Matthew 13?;Forgiveness and mercy;The kingdom of heaven;Prayer and faith;The Second Coming;1
+Who was Caiaphas in the trial of Jesus?;The Roman governor;A Pharisee leader;The high priest who led the Jewish trial;A disciple who betrayed Jesus;2
+Who was Pilate in the trial of Jesus?;The Jewish high priest;The Roman governor who presided over the Roman trial;A Pharisee;A Sadducee leader;1
+What was the Jewish charge against Jesus at his trial?;Treason against Rome;Blasphemy;Tax evasion;Inciting a riot;1
+What was the Roman charge against Jesus at his trial?;Blasphemy;Violating Jewish law;Claiming to be King of the Jews;Disturbing the temple;2
+Why did Romans use crucifixion as a punishment?;It was quick and merciful;It was reserved for Roman citizens;It was a public deterrent used on slaves and rebels;It was required by Jewish law;2
+Who was Paul before his conversion?;A fisherman from Galilee;A tax collector for Rome;A Pharisee who persecuted Christians;A temple priest;2
+Why is Paul considered the most influential New Testament writer?;He wrote the gospels;He was an apostle who walked with Jesus;He wrote the most letters that shaped early Christian theology;He performed the most miracles;2
+What does the term circumcision refer to in Paul's letters?;A Jewish ritual of purification;Jewish Christians;Gentile Christians;A metaphor for baptism;1
+What does the term uncircumcision refer to in Paul's letters?;A Gentile who became Jewish;Jewish Christians;Gentile Christians;A sinner who rejected the law;2
+Which apostle was called to preach to the Gentiles according to Paul?;Peter;James;John;Paul;3
+What does Christian liberty refer to in 1 Corinthians 8?;Freedom from Roman law;Freedom to interpret scripture personally;Freedom from all commandments;Freedom to act in non-essential matters while considering others;3
+What does the word apocalypse mean?;End of the world;Great destruction;Revelation or unveiling;Final judgment;2
+What does agape mean as used in 1 Corinthians 13?;Generosity;Kindness;Brotherhood;Divine unconditional love;3
+What does exegesis mean?;Reading meaning into a text;Translating ancient scripture;Comparing gospel accounts;Drawing meaning out of a text;3
+What does eisegesis mean?;Drawing meaning out of a text;Studying original manuscripts;Reading meaning into a text;Comparing gospel accounts;2
+What is typology in the context of Old Testament study?;A method of Bible translation;Earlier events or people that prefigure Christ;A style of Jewish prayer;A type of prophecy writing;1
+What does the word parable mean?;A hidden prophecy;A moral teaching;To place alongside or compare;A heavenly vision;2
+What is the thesis statement of the Gospel of John?;To record Jesus' miracles;To show Jesus as the fulfillment of the Law;That Jesus is the Christ the Son of God and believing brings eternal life;To present Jesus as the servant of all;2
+What is the importance of Jesus saying ego eimi in John 6:20?;It means follow me a call to discipleship;It means fear not a comfort to the disciples;It means I am the bread of life;It connects Jesus to the divine name I AM or Jehovah;3
+What are the two types of death caused by the Fall?;Temporal and eternal;Individual and communal;Spiritual/locational death and physical death;Locational and temporal;2
+Was the Fall considered regression or progression according to 2 Nephi 2?;Regression;Neither;Both equally;Progression;3
+What did the name or word gospel literally mean in Greek?;Holy scripture;God's word;Sacred teaching;Good news;3
