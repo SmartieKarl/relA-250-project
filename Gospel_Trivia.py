@@ -606,7 +606,6 @@ class GameEngine:
         self.sfx_incorrect = pygame.mixer.Sound(resource_path("sfx/incorrect.mp3"))
         self.sfx_applause = pygame.mixer.Sound(resource_path("sfx/applause.mp3"))
         self.sfx_applause.set_volume(0.5)
-        self.sfx_victory = pygame.mixer.Sound(resource_path("sfx/victory.mp3"))
 
     def change_state(self, state):
         """Changes game state"""
