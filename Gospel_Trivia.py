@@ -217,6 +217,9 @@ class TitleState:
 
         self.buttons.add(self.start_btn, self.options_btn, self.quit_btn)
 
+        # Music
+        self.engine.change_music("sfx/title.mp3")
+
     def update(self, events):
         # Update button images
         for button in self.buttons:
@@ -276,6 +279,9 @@ class OptionsState:
         self.q_time_label_rect = self.q_time_label_surf.get_rect(center=(S_WIDTH // 2, 1030))
         self.q_time_surf = self.engine.small_font.render(f"{self.engine.time_limit / 1000}", True, WHITE)
         self.q_time_rect = self.q_time_surf.get_rect(center=(S_WIDTH // 2, (S_HEIGHT // 2) + 400))
+
+        # Music
+        self.engine.change_music("sfx/options.mp3")
     
     def update(self, events):
         # Update button images
@@ -372,6 +378,9 @@ class TriviaState:
         self.curr_q = self.q_manager.next_question()
         self.question_surfs = []
 
+        # Music
+        self.engine.change_music(f"sfx/trivia{random.randint(1, 5)}.mp3", 0.5)
+
         # Refresh UI
         self.refresh_ui()
 
@@ -427,9 +436,11 @@ class TriviaState:
     def show_transition_screen(self, correct, sub_text=None):
         """Displays a question transition screen of either correct, or incorrect."""
         if correct:
+            self.engine.sfx_correct.play()
             message = "CORRECT!"
             bg_color = GREEN
         else:
+            self.engine.sfx_incorrect.play()
             message = "INCORRECT!"
             bg_color = RED
 
@@ -526,6 +537,12 @@ class GameOverState:
         self.hi_score_surf = self.engine.small_font.render(f"- High Score: {self.engine.hi_score} -", True, WHITE)
         self.hi_score_rect = self.hi_score_surf.get_rect(center=(S_WIDTH // 2, 580))
 
+        # Music
+        pygame.mixer.music.fadeout(10000)
+
+        # SFX
+        self.engine.sfx_applause.play()
+
     def update(self, events):
         # Update button images
         for button in self.buttons:
@@ -553,6 +570,7 @@ class GameEngine:
     def __init__(self):
         """Initializes game and sets state"""
         pygame.init()
+        pygame.mixer.init()
         self.screen = pygame.display.set_mode((S_WIDTH, S_HEIGHT))
         pygame.display.set_icon(pygame.image.load(resource_path("img/icon.png")))
         pygame.display.set_caption("Gospel Trivia!")
@@ -564,6 +582,8 @@ class GameEngine:
         self.clock = pygame.time.Clock()
         self.running = True
         self.state = TitleState(self)
+
+        
 
         self.score = 0
         self.hi_score = 0
@@ -580,9 +600,23 @@ class GameEngine:
         else:
             self.set_q = self.max_q
 
+        # SFX
+        self.sfx_click = pygame.mixer.Sound(resource_path("sfx/click.mp3"))
+        self.sfx_correct = pygame.mixer.Sound(resource_path("sfx/correct.mp3"))
+        self.sfx_incorrect = pygame.mixer.Sound(resource_path("sfx/incorrect.mp3"))
+        self.sfx_applause = pygame.mixer.Sound(resource_path("sfx/applause.mp3"))
+        self.sfx_applause.set_volume(0.5)
+        self.sfx_victory = pygame.mixer.Sound(resource_path("sfx/victory.mp3"))
+
     def change_state(self, state):
         """Changes game state"""
         self.state = state(self)
+
+    def change_music(self, track, vol=1):
+        pygame.mixer.music.set_volume(vol)
+        pygame.mixer.music.load(resource_path(track))
+        pygame.mixer.music.play(-1)
+
 
     def run(self):
         """Main game loop"""
@@ -593,6 +627,9 @@ class GameEngine:
             for event in events:
                 if event.type == QUIT:
                     self.running = False
+                # Mouse input
+                if event.type == pygame.MOUSEBUTTONDOWN:
+                    self.sfx_click.play()
 
                 # Keyboard input
                 if event.type == pygame.KEYDOWN:
