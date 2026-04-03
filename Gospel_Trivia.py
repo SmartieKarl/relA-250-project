@@ -554,6 +554,7 @@ class GameEngine:
         """Initializes game and sets state"""
         pygame.init()
         self.screen = pygame.display.set_mode((S_WIDTH, S_HEIGHT))
+        pygame.display.set_icon(pygame.image.load(resource_path("img/icon.png")))
         pygame.display.set_caption("Gospel Trivia!")
         self.font_name = "comicsansms"
         self.smallest_font = pygame.font.SysFont(self.font_name, 24)
@@ -571,7 +572,7 @@ class GameEngine:
 
         # Get questions amounts
         self.max_q = 0
-        with open("questions.txt", 'r') as f:
+        with open(resource_path("questions.txt"), 'r') as f:
             for line in f:
                 self.max_q += 1
         if self.max_q > 10:
