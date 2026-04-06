@@ -431,7 +431,10 @@ class TriviaState:
     
     def is_correct_answer(self, ans):
         """Helper function that compares chosen answer with correct answer, from curr_q's stored key"""
-        return ans == self.curr_q['k']
+        if self.curr_q:
+            return ans == self.curr_q['k']
+        else:
+            return None
     
     def show_transition_screen(self, correct, sub_text=None):
         """Displays a question transition screen of either correct, or incorrect."""
