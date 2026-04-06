@@ -537,17 +537,13 @@ class GameOverState:
         self.hi_score_surf = self.engine.small_font.render(f"- High Score: {self.engine.hi_score} -", True, WHITE)
         self.hi_score_rect = self.hi_score_surf.get_rect(center=(S_WIDTH // 2, 580))
 
-        # Music
-        pygame.mixer.music.fadeout(10000)
-
-        # SFX
         self.engine.sfx_applause.play()
 
     def update(self, events):
         # Update button images
         for button in self.buttons:
             button.react()
-
+    
         for event in events:
             if self.retry_btn.is_clicked(event):
                 self.engine.change_state(TriviaState)
