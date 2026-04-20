@@ -1,71 +1,108 @@
-What does the word "Gethsemane" mean?;Oil press;Garden of peace;Place of prayer;Valley of shadows;0
-What does the name "Barabbas" mean?;Son of the father;Servant of God;The chosen one;Man of peace;0
-What language was the Old Testament originally written in?;Greek;Latin;Aramaic;Hebrew;3
-What language was the New Testament originally written in?;Hebrew;Latin;Greek;Aramaic;2
-What does the word "apocalypse" mean?;End of the world;Great destruction;Revelation or unveiling;Final judgment;2
-What is "typology" in studying the Old Testament?;A method of Bible translation;Earlier events or people that prefigure Christ;A style of Jewish prayer;A type of prophecy writing;1
-What is exegesis?;Reading meaning into a text;Translating ancient scripture;Comparing gospel accounts;Drawing meaning out of a text;3
-What is eisegesis?;Drawing meaning out of a text;Studying original manuscripts;Reading meaning into a text;Comparing gospel accounts;2
-What is significant about Leviticus 16?;It contains the Ten Commandments;It describes the Day of Atonement;It records the Passover meal;It outlines the Mosaic covenant;1
-What name does God reveal to Moses in Exodus 3?;Elohim;Adonai;El Shaddai;I AM (Yahweh/Jehovah);3
-Who conquered the Northern Kingdom of Israel in 722 BC?;Babylon;Persia;Egypt;Assyria;3
-Who conquered the Southern Kingdom of Judah around 600 BC?;Assyria;Babylon;Persia;Rome;1
-What are the three promises of the Abrahamic Covenant?;Faith hope and charity;Law temple and sacrifice;Land posterity and blessings to all nations;Obedience sacrifice and consecration;2
-Which Jewish group was associated with the Dead Sea Scrolls?;Pharisees;Sadducees;Essenes;Zealots;2
-Which Jewish group emphasized the Oral Law?;Sadducees;Essenes;Zealots;Pharisees;3
-Which Jewish group was associated with the Temple in Jerusalem?;Pharisees;Sadducees;Essenes;Zealots;1
-What is a Marcan sandwich?;A parable unique to Mark;A miracle followed by a teaching;A story inserted within another story;A summary of Jesus' ministry;2
-What is the messianic secret in Mark?;Jesus reveals his identity openly;Jesus speaks only in parables;Jesus hides his miracles from the apostles;Jesus instructs people not to reveal his identity;3
-What does the word "parable" mean?;A hidden prophecy;A moral teaching;To place alongside or compare;A heavenly vision;2
-What does high Christology refer to?;Emphasizing Jesus' humanity;Focusing on Jesus' parables;Describing Jesus' miracles only;Emphasizing Jesus' divine nature;3
-Which gospel has the highest Christology?;Matthew;Mark;Luke;John;3
-What event does the Gospel of Mark begin with?;The nativity;The genealogy of Jesus;The baptism of Jesus;The temptation of Jesus;2
-What two types of death are caused by the Fall?;Temporal and eternal;Individual and communal;Spiritual/locational and physical;Locational and temporal;2
-Was the Fall considered regression or progression in 2 Nephi 2?;Regression;Neither;Both equally;Progression;3
-What does ego eimi mean and why is it significant in John 6:20?;Follow me a call to discipleship;Fear not a comfort to the disciples;I am the bread of life;I AM connecting Jesus to the divine name Jehovah;3
-What is the new commandment Jesus gives at the Last Supper?;Keep the Sabbath holy;Pray without ceasing;Forgive your enemies;Love one another as I have loved you;3
-What does the lamb take from God's right hand in Revelation 5?;A crown;A sword;A trumpet;A scroll;3
-What is Christian liberty as discussed in 1 Corinthians 8?;Freedom from Roman law;Freedom to interpret scripture personally;Freedom from all commandments;Freedom to act in non-essential matters while considering others;3
-What are fence laws?;Laws protecting the temple;Rules for Jewish dietary practice;Roman laws restricting Christians;Extra rules created to guard against breaking commandments;3
-Who is the audience of the Epistle to the Hebrews?;Gentile Christians;Roman converts;Greek philosophers;Jewish Christians;3
-What are the three worlds Paul was conversant in?;Hebrew Aramaic and Greek;Eastern Western and Roman;Religious political and military;Jewish Greek and Roman;3
-What was Paul's role before his conversion?;Fisherman;Tax collector;Carpenter;Persecutor of Christians as a Pharisee;3
-What does the Greek word agape used for charity in 1 Corinthians 13 mean?;Generosity;Kindness;Brotherhood;Divine unconditional love;3
-Which gospels present the Last Supper as a Passover meal?;Matthew Mark and John;Luke and John only;All four gospels;Matthew Mark and Luke;3
-In the nativity stories which gospel contains the story of the Wise Men and the star?;Luke;John;Mark;Matthew;3
-In the nativity stories which gospel contains the story of the shepherds?;Matthew;John;Mark;Luke;3
-How many times does Moses dismiss Satan in the Book of Moses?;Once;Twice;Three times;Four times;1
-What made Moses' final dismissal of Satan successful?;Calling on God's power;Speaking the name of Jesus Christ;Using the priesthood authority;Quoting scripture aloud;1
-What is a Christ-hymn?;A psalm sung in the temple;An early Christian hymn or poem about the nature and glory of Christ;A prophecy about the Messiah;A prayer addressed directly to Jesus;1
-What plant does the seed grow into in Alma 32?;An olive tree;A vine;A tree of life;A fig tree;2
-What does Jesus show in 3 Nephi 11:13-15 as proof that He is the God of the whole earth?;His glorified face;The wounds in his hands feet and side;His ability to heal;A pillar of fire;1
-Which gospel contains Joseph's story in the nativity account?;Luke;John;Mark;Matthew;3
-Which gospel contains Mary's story and her psalm in the nativity account?;Matthew;John;Mark;Luke;3
-What is the thesis statement or purpose of the Gospel of John?;To record Jesus' miracles;To show Jesus as the fulfillment of the Law;That Jesus is the Christ the Son of God and believing brings eternal life;To present Jesus as the servant of all;2
-What theme runs throughout the Gospel of John?;Miracles and healings;Parables of the kingdom;Acceptance and rejection of Jesus;The Sermon on the Mount;2
-How does Nicodemus differ from the woman at the well in John's gospel?;He is a Gentile while she is Jewish;He is a Jewish leader who comes at night while she is a Samaritan woman met in daylight;He accepts Jesus immediately while she rejects him;He is poor while she is wealthy;1
-What is the short ending of Mark?;Jesus ascends into heaven;The disciples are commissioned to preach;The women flee the tomb and say nothing to anyone out of fear;Peter denies Jesus three times;2
-What does the former treatise referred to in Acts 1:1 refer to?;The book of Matthew;The epistles of Paul;The Gospel of Luke;The book of Hebrews;2
-What is the topic of the parables in Matthew 13?;Forgiveness and mercy;The kingdom of heaven;Prayer and faith;The Second Coming;1
-Who was Caiaphas in the trial of Jesus?;The Roman governor;A Pharisee leader;The high priest who led the Jewish trial;A disciple who betrayed Jesus;2
-Who was Pilate in the trial of Jesus?;The Jewish high priest;The Roman governor who presided over the Roman trial;A Pharisee;A Sadducee leader;1
-What was the Jewish charge against Jesus at his trial?;Treason against Rome;Blasphemy;Tax evasion;Inciting a riot;1
-What was the Roman charge against Jesus at his trial?;Blasphemy;Violating Jewish law;Claiming to be King of the Jews;Disturbing the temple;2
-Why did Romans use crucifixion as a punishment?;It was quick and merciful;It was reserved for Roman citizens;It was a public deterrent used on slaves and rebels;It was required by Jewish law;2
-Who was Paul before his conversion?;A fisherman from Galilee;A tax collector for Rome;A Pharisee who persecuted Christians;A temple priest;2
-Why is Paul considered the most influential New Testament writer?;He wrote the gospels;He was an apostle who walked with Jesus;He wrote the most letters that shaped early Christian theology;He performed the most miracles;2
-What does the term circumcision refer to in Paul's letters?;A Jewish ritual of purification;Jewish Christians;Gentile Christians;A metaphor for baptism;1
-What does the term uncircumcision refer to in Paul's letters?;A Gentile who became Jewish;Jewish Christians;Gentile Christians;A sinner who rejected the law;2
-Which apostle was called to preach to the Gentiles according to Paul?;Peter;James;John;Paul;3
-What does Christian liberty refer to in 1 Corinthians 8?;Freedom from Roman law;Freedom to interpret scripture personally;Freedom from all commandments;Freedom to act in non-essential matters while considering others;3
-What does the word apocalypse mean?;End of the world;Great destruction;Revelation or unveiling;Final judgment;2
-What does agape mean as used in 1 Corinthians 13?;Generosity;Kindness;Brotherhood;Divine unconditional love;3
-What does exegesis mean?;Reading meaning into a text;Translating ancient scripture;Comparing gospel accounts;Drawing meaning out of a text;3
-What does eisegesis mean?;Drawing meaning out of a text;Studying original manuscripts;Reading meaning into a text;Comparing gospel accounts;2
-What is typology in the context of Old Testament study?;A method of Bible translation;Earlier events or people that prefigure Christ;A style of Jewish prayer;A type of prophecy writing;1
-What does the word parable mean?;A hidden prophecy;A moral teaching;To place alongside or compare;A heavenly vision;2
-What is the thesis statement of the Gospel of John?;To record Jesus' miracles;To show Jesus as the fulfillment of the Law;That Jesus is the Christ the Son of God and believing brings eternal life;To present Jesus as the servant of all;2
-What is the importance of Jesus saying ego eimi in John 6:20?;It means follow me a call to discipleship;It means fear not a comfort to the disciples;It means I am the bread of life;It connects Jesus to the divine name I AM or Jehovah;3
-What are the two types of death caused by the Fall?;Temporal and eternal;Individual and communal;Spiritual/locational death and physical death;Locational and temporal;2
-Was the Fall considered regression or progression according to 2 Nephi 2?;Regression;Neither;Both equally;Progression;3
-What did the name or word gospel literally mean in Greek?;Holy scripture;God's word;Sacred teaching;Good news;3
+What is exegesis?;Reading meaning into the text;Drawing meaning out of the text;Ignoring context;Translating languages;1
+What is eisegesis?;Drawing meaning out of the text;Reading meaning into the text;Literal translation only;Historical analysis;1
+How is Jesus likely to have looked historically?;European with light features;Middle Eastern Jewish man;Roman soldier;Greek philosopher;1
+What is a common inaccurate depiction of Jesus in art?;Middle Eastern features;Dark skin and hair;European features;Roman armor;2
+How does God primarily create in Genesis?;Through physical labor;By speaking things into existence;Through angels;By writing laws;1
+What is one similarity between the tree of life and the tree of knowledge?;Both are forbidden;Both give knowledge;Both are in Eden;Both cause death;2
+What is a key difference between the two trees?;One gives life, one gives knowledge;One is real, one is symbolic;One is outside Eden;One is eaten twice;0
+What doctrine does Lehi teach about the Fall?;The Fall was a mistake;The Fall was necessary for progress;The Fall ended agency;The Fall had no effect;1
+What language was most of the Old Testament written in?;Greek;Latin;Hebrew;Aramaic only;2
+What language was most of the New Testament written in?;Hebrew;Latin;Greek;Egyptian;2
+Who speaks to Moses in Exodus 3?;An angel;Pharaoh;God;Aaron;2
+What name does God give Moses (in English)?;The Creator;I Am;The King;The Shepherd;1
+How did Pharisees view Samaritans?;As equals;As enemies or impure;As rulers;As allies;1
+What did the Sanhedrin think of Samaritans?;Highly respected;Politically allied;Religiously impure;Leaders;2
+How did Essenes generally view Samaritans?;Welcomed them;Avoided them;Ruled them;Converted them;1
+Which Gospel emphasizes Jesus’ connection to Judaism?;Mark;Luke;Matthew;John;2
+Which Gospel emphasizes Jesus’ humanity and emotions?;Mark;Luke;Matthew;John;0
+Which Gospel emphasizes Jesus’ connection to all people?;Matthew;Mark;Luke;John;2
+Which Gospel emphasizes Jesus’ divinity most strongly?;Matthew;Mark;Luke;John;3
+What is Christology?;Study of creation;Study of Christ;Study of law;Study of prophecy;1
+Which Gospel has the highest Christology?;Matthew;Mark;Luke;John;3
+Which Gospel has the lowest Christology?;John;Mark;Luke;Matthew;1
+Why does Matthew include women in the genealogy?;To shorten it;To highlight unexpected or marginalized people;To follow Roman custom;To show wealth;1
+What must listeners do to understand parables?;Memorize them;Interpret and apply them;Translate them;Ignore context;1
+What do bread and wine symbolize in relation to Jesus?;Law and prophets;Flesh and blood;Heaven and earth;Angels and humans;1
+What are the two main parts of Jesus’ trial?;Jewish and Roman;Civil and criminal;Public and private;Early and late;0
+Who was Caiaphas?;Roman governor;High priest;Disciple;Soldier;1
+Who was Pilate?;Jewish king;Roman governor;Disciple;Pharisee;1
+What was a Jewish charge against Jesus?;Tax evasion;Blasphemy;Theft;Treason;1
+What was a Roman charge against Jesus?;Blasphemy;Claiming kingship;Breaking Sabbath;Teaching parables;1
+When did Romans use crucifixion?;For minor crimes;For non-citizens and rebels;For priests;For merchants;1
+Who is the first witness of the resurrection?;Peter;Mary Magdalene;John;Paul;1
+What is learned about Jesus’ resurrected body?;Purely spirit;Physical and tangible;Invisible;Unchanged mortal;1
+How much detail do we have about the 40-day ministry?;Extensive;Moderate;Very little;None;2
+Who was Paul?;A Roman emperor;An apostle and missionary;A Pharisee leader only;A scribe;1
+What are the three worlds Paul understood?;Greek, Roman, Jewish;Heaven, earth, sea;Past, present, future;Law, grace, works;0
+Why did Paul use the names Saul and Paul?;Different missions/audiences;Random choice;Name change at birth;To hide identity;0
+What was Paul’s job before conversion?;Fisherman;Tentmaker only;Persecutor of Christians;Tax collector;2
+Who does “circumcision” refer to?;Gentiles;Jews;Romans;Christians;1
+Who does “uncircumcision” refer to?;Jews;Gentiles;Pharisees;Priests;1
+Which apostle was sent to the Gentiles?;Peter;James;Paul;John;2
+What is faith (class definition)?;Blind belief;Trust and loyalty to God;Knowledge only;Works alone;1
+What are works?;Beliefs;Actions;Words;Feelings;1
+What is grace?;Earning salvation;God’s unearned help;Law keeping;Judgment;1
+What is justification?;Condemnation;Being declared righteous;Punishment;Ignorance;1
+What is a Christ-hymn?;A parable;An early Christian song about Christ;A law;A prophecy;1
+What can a tree symbolize in scripture?;War;Covenant and life;Death only;Sin only;1
+What does the seed represent in Matthew 13 and Alma 32?;Money;Faith and the word;Law;Angels;1
+What does the tree in 1 Nephi 11 represent?;War;God’s love;Judgment;Law;1
+What does John 12:24 teach about seeds?;They never die;Death brings life;Seeds are useless;Growth is instant;1
+What can the fruit of the tree of life represent?;Wealth;God’s love and blessings;Law;Punishment;1
+What is Christian liberty?;Freedom to sin;Freedom in Christ with responsibility;Political freedom;Lawlessness;1
+What issue raises Christian liberty in 1 Cor 8?;Sabbath keeping;Food sacrificed to idols;Tithing;Circumcision;1
+What are fence laws?;Core commandments;Extra rules to prevent sin;Civil laws;Roman laws;1
+What is a benefit of fence laws?;Less clarity;Avoid sin;More sin;Confusion;1
+What is a liability of fence laws?;Prevent obedience;Can become burdensome;Too simple;Irrelevant;1
+What two elements must guide Christian liberty?;Law and prophets;Knowledge and love;Faith and works;Grace and law;1
+What does Paul conclude in 1 Cor 8?;Do anything;Avoid harming others’ faith;Ignore others;Enforce rules;1
+Who is the audience of Hebrews?;Gentiles only;Jewish Christians;Romans;Greeks;1
+What is Hebrews mainly about?;History;Jesus as High Priest and atonement;Law;Prophecy;1
+What is one difficulty in believing the atonement?;Too simple;Feeling unworthy;Too logical;Too easy;1
+What does “Gethsemane” mean?;House of prayer;Oil press;Mountain;Temple;1
+What connects Hebrews 10 and 11?;Law;Faith;Grace;Works;1
+What do people in Hebrews 11 share?;Wealth;Faith;Power;Knowledge;1
+Why is Paul discussing charity in 1 Cor 13?;Random topic;Addressing conflict and spiritual gifts;Law;History;1
+What Greek word is used for charity?;Logos;Agape;Philia;Eros;1
+What does agape mean?;Romantic love;Selfless love;Friendship;Law;1
+What is the difference between forgiveness and trust?;They are identical;Forgiveness doesn’t require restored trust;Trust is automatic;Forgiveness is earned;1
+What is the last book of the NT?;Acts;Revelation;Hebrews;Romans;1
+What does “apocalypse” mean?;End;Revelation/unveiling;Destruction;Judgment;1
+What is a key to interpreting Revelation?;Literal only;Symbolism;Ignore context;Memorization;1
+What is promised to those who overcome in Rev 2-3?;Wealth;Eternal life/blessings;Power;Fame;1
+What does the Lamb take in Rev 5?;Sword;Scroll;Crown;Book;1
+What is a characteristic of the Lamb?;Weakness;Sacrifice;Power only;Anger;1
+What is the subject of Matthew 24-25?;Creation;Second Coming;Law;History;1
+What does JST add in Matt 24:21?;Less detail;More clarity about events;Nothing;Contradiction;1
+What separates sheep and goats?;Wealth;Actions toward others;Belief only;Nationality;1
+What is Armageddon described as?;Peace treaty;Final battle;Marriage;Creation;1
+What connects Rev 21:1 to Genesis?;Law;New creation;War;Temple;1
+What does Revelation teach about Jesus in Rev 22?;He is absent;He reigns eternally;He returns later;He is hidden;1
+What are the two main parts of Jesus’ trial?;Jewish and Roman;Civil and military;Public and private;Galilean and Judean;0
+What are two scenes often included in the trial narrative?;Peter’s denial and Judas’ repentance;Garden of Gethsemane and burial;Crucifixion and resurrection;Transfiguration and ascension;1
+When does Paul primarily use the name Saul?;When preaching to Gentiles;In Jewish contexts;Only after conversion;Only in prison;1
+When does Paul primarily use the name Paul?;In Roman/Gentile mission contexts;Before conversion;Only in Jerusalem;Only in the Old Testament;0
+What are modern examples of “fence laws”?;Core commandments of scripture;Church cultural rules meant to prevent breaking commandments;Roman laws;Civil government laws;1
+What is one danger of fence laws?;They replace God’s law entirely;They guarantee salvation;They remove all agency;They always increase faith;0
+What is one benefit of fence laws?;They eliminate all sin;They help people avoid breaking commandments;They replace scripture;They make rules unnecessary;1
+What are the two common “excuses” people use to doubt the Atonement (from Hebrews discussion)?;God does not exist and life has no meaning;I am too sinful / it doesn’t apply to me;The Bible is fake / history is false;Jesus never lived / disciples lied;1
+What is the main message of Hebrews regarding doubting the atonement?;The Atonement is limited;The Atonement is insufficient;The Atonement is fully sufficient through Christ;The Atonement is symbolic only;2
+What are the different interpretive “keys” for Revelation discussed in class?;Literal only;Historical, symbolic, and prophetic layers;Mathematical, scientific, and poetic;Roman, Greek, and Hebrew;1
+What is a key characteristic of Armageddon imagery in Revelation?;A literal modern war description;Symbolic imagery of final divine victory;A political treaty;A natural disaster report;1
+What is often emphasized about Armageddon in class interpretation?;It is easy to predict;It is primarily symbolic rather than literal detail;It only applies to ancient Rome;It is unrelated to Revelation;1
+How are the tree of life, seed imagery, and parables connected?;They are unrelated themes;They all teach covenant growth and spiritual development;They only apply to agriculture;They are only historical metaphors;1
+What do all tree/seed metaphors together emphasize?;Instant perfection;Spiritual growth over time through nurturing faith;Physical farming techniques;Legal obedience only;1
+What detail about Matthew 1 (women in genealogy) is important?;They were all queens;They highlight outsiders and unexpected inclusion;They were all prophets;They were all Roman citizens;1
+What deeper meaning do the women in Matthew’s genealogy suggest?;God only works through kings;God includes outsiders and prepares for Mary;Genealogies are unimportant;Only men matter in scripture;1
+What is an important detail about Jesus’ resurrected body?;It was purely spiritual;It could be touched and interacted physically;It was invisible;It was only symbolic;1
+What do resurrection accounts show about Jesus’ body?;It was unchanged and non-physical;It could eat, be touched, and appear/disappear;It was never seen;It was identical to pre-mortal form;1
+What is emphasized about the 40-day post-resurrection ministry?;It is extensively documented;Very little detailed information is given;It lasted exactly 40 years;It is fully described in all Gospels;1
+What is a key teaching about Revelation 19–22 Armageddon imagery?;It is mainly about ancient Israel;It is symbolic of God’s ultimate victory over evil;It is a historical Roman battle;It is unrelated to Christ;1
+What does Revelation 21:1 connect to Genesis?;Nothing;The new creation mirrors the original creation;It contradicts Genesis;It replaces Genesis entirely;1
+What is the main message of Revelation 22:1–7 about Jesus?;Jesus is absent from the end;Jesus reigns and restores life eternally;Jesus loses authority;Jesus becomes symbolic only;1
+What deeper idea about parables might you miss if you only think of them as simple stories?;They are meant to confuse people randomly;They require spiritual effort and willingness to understand;They are only moral stories with no meaning;They are outdated literature;1
+What is one reason Jesus used parables?;To hide truth permanently;To invite reflection and spiritual searching;To avoid teaching;To confuse his disciples;1
+What is an important clarification about Paul’s use of “Saul” vs “Paul”?;It is random;It reflects different audiences and mission contexts;It indicates a second conversion;It is a translation error;1
+What does the “seed growing” parable imagery emphasize spiritually?;Instant results;Gradual spiritual growth through nurture and faith;No growth at all;Only intellectual learning;1
+What is the significance of Gethsemane meaning “oil press”?;It has no meaning;It symbolizes Christ’s suffering and pressure;It refers to farming tools only;It is a random name;1
+What is one key idea about Revelation interpretation?;It should be read only literally;It uses layered symbolic imagery requiring interpretation;It has no meaning;It is only historical narrative;1

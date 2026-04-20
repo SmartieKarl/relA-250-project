@@ -185,10 +185,23 @@ class QuestionManager:
             for line in f:
                 parts = line.strip().split(';')
                 if len(parts) >= 6:
+                    question_text = parts[0]
+                    answers = parts[1:5]
+                    correct_index = int(parts[5])
+                    # Pair answers with their original indices
+                    answer_pairs = list(enumerate(answers))
+                    random.shuffle(answer_pairs)
+                    # Find new index of the correct answer
+                    for new_idx, (orig_idx, ans) in enumerate(answer_pairs):
+                        if orig_idx == correct_index:
+                            new_key = new_idx
+                            break
+                    # Store only the answer texts in the new order
+                    shuffled_answers = [ans for _, ans in answer_pairs]
                     self.questions.append({
-                        'q': parts[0],
-                        'a': parts[1:5],
-                        'k': int(parts[5])
+                        'q': question_text,
+                        'a': shuffled_answers,
+                        'k': new_key
                     })
         # Trim questions to amount specified
         random.shuffle(self.questions)
@@ -628,7 +641,8 @@ class GameEngine:
                     self.running = False
                 # Mouse input
                 if event.type == pygame.MOUSEBUTTONDOWN:
-                    self.sfx_click.play()
+                    # Channel 2 so clicking does not inturrupt background music
+                    pygame.mixer.Channel(2).play(self.sfx_click)
 
                 # Keyboard input
                 if event.type == pygame.KEYDOWN:
